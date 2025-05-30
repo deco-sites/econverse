@@ -1,0 +1,65 @@
+{
+  "name": "App Commerce",
+  "path": "/app-commerce",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/HeroApps.tsx",
+        "logo": {
+          "src": "https://assets.decocache.com/econverse-page/f21bb302-4056-42f6-97b8-033ed0d42bc9/econapp.png"
+        },
+        "image": {
+          "src": "https://assets.decocache.com/econverse-page/bb95b4f3-a947-4643-850b-c63852c257fe/iPhone-13-Pro.png"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Experienciaapp.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ModularApp.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Appinfos.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ContainerVideo.tsx",
+        "video": "https://assets.decocache.com/econverse-page/90101b16-6c4e-4fcb-9d7e-e4fb5ba1ff80/Video-escritorio(1).mp4"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

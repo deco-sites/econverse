@@ -1,0 +1,34 @@
+{
+  "seo": {
+    "type": "website",
+    "title": "Agência Econverse - Implantação & Evolução VTEX, Wake e Shopify | Econverse",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "description": "Agência de E-commerce Quadrante VTEX. ✓ Implantação VTEX ✓ Implantação Wake ✓ Implantação Shopify ✓ Suporte e Evolução ✓ Gestão de Mídia ✓ CRM ✓ SEO ✓ Growth. Veja mais!",
+    "titleTemplate": "Agência Econverse - Implantação & Evolução VTEX, Wake e Shopify | Econverse",
+    "descriptionTemplate": "%s | Agência Econverse",
+    "favicon": "https://assets.decocache.com/econverse-page/37e6a642-87ad-4edd-ae13-de4c84534091/favicon-80x80px-2.png",
+    "image": "https://assets.decocache.com/econverse-page/ed75b5a4-c378-45fa-9fad-8f20134a641d/ImageWidget-Site-Econverse---2.png"
+  },
+  "global": [
+    {
+      "__resolveType": "htmx/sections/htmx.tsx"
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    }
+  ],
+  "caching": {
+    "directives": []
+  },
+  "__resolveType": "site/apps/site.ts",
+  "firstByteThresholdMS": false,
+  "theme": {
+    "__resolveType": "Econverse"
+  }
+}

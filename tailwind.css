@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  /* Allow changing font family via CMS */
+  html {
+    font-family: var(--font-family);
+  }
+
+  /** Remove default styles from input[type=number] */
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type=number] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+
+  /** Prevent scroll when modal is open */
+  .no-scroll {
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  [data-dot].current div .dot {
+    background-color: black;
+  }
+  [data-dot] div .dot {
+    background-color: #E4E4E7;
+  }
+
+  /** Rotating border animation for buttons */
+  @keyframes rotate-border {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .rotating-border::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: conic-gradient(from 0deg, transparent, #FFFFFF, #515151, #FFFFFF, transparent);
+    animation: rotate-border 3s linear infinite;
+    z-index: -1;
+  }
+
+  .rotating-border::after {
+    content: '';
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    right: 1px;
+    bottom: 1px;
+    background: #181818;
+    border-radius: 3px;
+    z-index: -1;
+  }
+
+  /** Hover customizado para Slider.Item em hero-1 */
+  .slider-item-hover:hover {
+    background: #F7F6F0 !important;
+  }
+  .slider-item-image {
+    transition: opacity 0.4s, transform 0.4s;
+  }
+  .slider-item-hover:hover .slider-item-image {
+    opacity: 0;
+    height: 0;
+    transform: translateY(-20px);
+    display: block !important;
+  }
+  .slider-item-text {
+    transition: transform 0.4s;
+  }
+  .slider-item-hover:hover .slider-item-text {
+    transform: translateY(-20px);
+  }
+
+  .slider-item-hover {
+    transition: background 1s;
+  }
+
+  .slider-item-link {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s;
+  }
+  .slider-item-hover:hover .slider-item-link {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+@layer utilities {
+
+  /** Remove scrollbar from overflow-auto */
+  .scrollbar-none {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}

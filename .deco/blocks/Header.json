@@ -1,0 +1,95 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Home",
+        "url": " /"
+      },
+      {
+        "label": "Soluções",
+        "url": "/"
+      },
+      {
+        "label": "Cases",
+        "url": "/"
+      },
+      {
+        "label": "Imprensa",
+        "url": "/"
+      },
+      {
+        "label": "Quem Somos",
+        "url": "/"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Começar um projeto",
+        "outline": false,
+        "href": "/"
+      }
+    ]
+  },
+  "logo": {
+    "src": "https://assets.decocache.com/econverse-page/ea41c5ab-f3be-44b9-baf1-e94f5250b112/Logo-(2).png"
+  },
+  "solutions": {
+    "0": {
+      "categories": [
+        {
+          "subcategories": []
+        }
+      ]
+    },
+    "categories": [
+      {
+        "subcategories": [
+          {
+            "label": "VTEX Solutions",
+            "url": "/"
+          },
+          {
+            "label": "VTEX Solutions",
+            "url": "/"
+          },
+          {
+            "label": "VTEX Solutions",
+            "url": "/"
+          },
+          {
+            "label": "VTEX Solutions",
+            "url": "/"
+          }
+        ],
+        "label": "VTEX Solutions"
+      },
+      {
+        "subcategories": [
+          {
+            "label": "VTEX Solutions"
+          }
+        ],
+        "label": "VTEX Solutions"
+      },
+      {
+        "subcategories": [
+          {
+            "label": "VTEX Solutions",
+            "url": "/"
+          }
+        ],
+        "label": "VTEX Solutions"
+      },
+      {
+        "subcategories": [
+          {
+            "label": "VTEX Solutions",
+            "url": "/"
+          }
+        ],
+        "label": "VTEX Solutions"
+      }
+    ]
+  }
+}

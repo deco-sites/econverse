@@ -1,0 +1,289 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h5>We are Digital agency</h5>",
+      "cta": [],
+      "description": "Agência de implementação, evolução e marketing para e-commerce",
+      "items": [
+        {
+          "placement": "left",
+          "cta": {
+            "text": "Começar um projeto"
+          },
+          "description": "Agência de implementação, evolução e marketing para e-commerce",
+          "title": "We are Digital agency",
+          "type": "video",
+          "image": null,
+          "video": "https://assets.decocache.com/econverse-page/5af2552e-630d-4805-917e-1256e1ece969/0_Earth_Planet_1920x1080.mp4"
+        },
+        {
+          "type": "video",
+          "cta": {
+            "text": "Começar um projeto"
+          },
+          "title": "Case NK Store VTEX IO:  A inovação que veste  o mundo da moda",
+          "description": "Uma das mais influentes boutiques de moda de luxo do Brasil se destaca por oferecer peças atemporais e sofisticadas, priorizando tecidos nobres e acabamentos impecáveis.",
+          "image": "https://assets.decocache.com/econverse-page/361edd35-fe5e-433d-9c0a-05dc7b743e64/Hero-section-(1).png",
+          "name": "NK STORE"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/hero-1.tsx",
+        "items": [
+          {
+            "title": "Mídia patrocinada",
+            "image": "https://assets.decocache.com/econverse-page/c83220c7-796f-4b30-b992-62e47a31fdb5/proicons_computer-mac.png",
+            "description": "Melhoramos o desempenho do seu e-commerce com mídia patrocinada, BI, CRM e SEO.",
+            "link": "/"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/c83220c7-796f-4b30-b992-62e47a31fdb5/proicons_computer-mac.png",
+            "title": "Mídia patrocinada",
+            "description": "Melhoramos o desempenho do seu e-commerce com mídia patrocinada, BI, CRM e SEO.",
+            "link": "/"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/c83220c7-796f-4b30-b992-62e47a31fdb5/proicons_computer-mac.png",
+            "description": "Melhoramos o desempenho do seu e-commerce com mídia patrocinada, BI, CRM e SEO.",
+            "link": "/",
+            "title": "Mídia patrocinada"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/c83220c7-796f-4b30-b992-62e47a31fdb5/proicons_computer-mac.png",
+            "link": "/",
+            "title": "Mídia patrocinada",
+            "description": "Melhoramos o desempenho do seu e-commerce com mídia patrocinada, BI, CRM e SEO."
+          }
+        ],
+        "title": "Conheça nossos serviços digitais para transformar seu negócio em escala global"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/hero-2.tsx",
+        "clients": [
+          {
+            "image": "https://assets.decocache.com/econverse-page/4eb13110-b5de-43f1-9e0a-63b7af9013ac/logo-vetor-2.png",
+            "name": "NK"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/3219fda5-f978-4b4f-99dc-d61f81d5c6e9/Group.png",
+            "name": "IWC"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/52748b40-d8db-4a14-a956-97a5db655ac2/Logo-logo.png",
+            "name": "Reserva"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/8f0147b9-383c-4280-8c11-1e5f3e37b5f7/Mask-group-(1).png",
+            "name": "Animale"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/b89f26d0-63d6-4f8a-89cc-79f68b64854c/Logotipo_da_Amaro_svg_10591ce3-f4dc-4c3e-bda3-1f0c8ac917ed.png.png",
+            "name": "Amaro"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/76d7daf6-0a69-42f2-a77d-41dacd44f71c/Group-1961.png",
+            "name": "Ofner"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/d6505739-d40c-4270-a235-b1d91c906cd6/Mask-group-(2).png",
+            "name": "B.blend"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/da017773-6cee-4f7c-aa27-28c42b2cd26d/inter.png",
+            "name": "inter"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/b53661fc-329f-47f9-b9dc-e0b7de7b2702/yamaha.png",
+            "name": "yamaha"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/13e644d6-c818-49f9-9812-07ba6cbd2eb7/sanavita.png",
+            "name": "sanavita"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/c6d94983-90aa-4ef1-b1c0-069ad826bdc0/logo.png",
+            "name": "Bayard"
+          }
+        ],
+        "caseStudies": [
+          {
+            "description": "Transformamos ideias em soluções tecnológicas escaláveis para empresas de diversos setores. Nossos parceiros B2B incluem líderes em indústria, educação, saúde, logística e serviços financeiros, que confiam em nossa expertise.",
+            "title": "cases b2b"
+          },
+          {
+            "title": "cases b2c",
+            "description": "Conectamos marcas a pessoas através de experiências digitais únicas. Atendemos clientes B2C em mídia, e-commerce, aplicativos e marketplaces, criando interfaces intuitivas e soluções interativas que encantam e engajam seus usuários."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Cases.tsx",
+        "name": "Ola",
+        "cases": [
+          {
+            "image": "https://assets.decocache.com/econverse-page/6475b8b1-b807-4ae5-acbd-7308be35717a/Group-1437253738.png",
+            "description": "Uma das mais influentes boutiques de moda de luxo do Brasil se destaca por oferecer peças atemporais e sofisticadas, priorizando tecidos nobres e acabamentos impecáveis.",
+            "title": "NK STORE",
+            "logo": "https://assets.decocache.com/econverse-page/4eb13110-b5de-43f1-9e0a-63b7af9013ac/logo-vetor-2.png"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/32fdb3bb-edd4-4970-9e05-b2399c45d44a/b7932a03c61af13c938c91f4e4ebad9c694387d6.png",
+            "title": "Animale",
+            "logo": "https://assets.decocache.com/econverse-page/8f0147b9-383c-4280-8c11-1e5f3e37b5f7/Mask-group-(1).png",
+            "description": "Uma das mais influentes boutiques de moda de luxo do Brasil se destaca por oferecer peças atemporais e sofisticadas, priorizando tecidos nobres e acabamentos impecáveis."
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/3b979ff3-dd76-42a4-8098-485eea270990/c73683608c35181d13821e879049b9430f97496b.png",
+            "description": "Uma das mais influentes boutiques de moda de luxo do Brasil se destaca por oferecer peças atemporais e sofisticadas, priorizando tecidos nobres e acabamentos impecáveis.",
+            "title": "DUDAH",
+            "logo": "https://assets.decocache.com/econverse-page/09aa9666-3ef1-4a6c-9db2-2e28d87cab9a/Group-2854.png"
+          },
+          {
+            "image": "https://assets.decocache.com/econverse-page/36504f07-bb79-42cd-bfd4-5cc59b812ae6/0ee1f06f9bf2910f778745ac925d05b0b35df07d.png",
+            "description": "Uma das mais influentes boutiques de moda de luxo do Brasil se destaca por oferecer peças atemporais e sofisticadas, priorizando tecidos nobres e acabamentos impecáveis.",
+            "title": "FTW",
+            "logo": "https://assets.decocache.com/econverse-page/fc6f2f8d-945c-48ef-a69a-cb9b52a43f66/ftw.png"
+          }
+        ],
+        "title": "Confira os alguns cases de sucesso"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Vision.tsx",
+        "image": "https://assets.decocache.com/econverse-page/ca817cdd-1ddb-4dff-b5a5-bd8c2c274605/Camada_1.png"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Testimonials.tsx",
+        "testimonials": [
+          {
+            "content": {
+              "position": "Gestor Comercial Grupo Abrange",
+              "name": "Micael Bogo",
+              "description": "“A Econverse está sempre de portas e coração abertos para nossas demandas. Percebo claramente que o resultado que desejam entregar se sobrepões as clausulas contratuais e não medem esforços para que isso ocorra. Um parceiro que tem minha admiração profissional e pessoal.”"
+            }
+          },
+          {
+            "content": {
+              "description": "\"Trabalhamos com a Econverse há mais de um ano e tem sido um período bastante produtivo.  O principal destaque vai para a equipe, que é sempre atenciosa e disposta a ajudar. A rotina diária é tranquila, com um atendimento rápido e de qualidade. A agência é comprometida com nossos objetivos, encontrando boas soluções e se tornando grandes parceiros.”",
+              "name": "1",
+              "position": "2"
+            }
+          },
+          {
+            "content": {
+              "description": "“O pessoal da Econverse é simplesmente incrível! Sempre muito atenciosos, executam o trabalho com dedicação e talento, garantindo que tudo funcione da melhor forma possível.  Às vezes surgem desafios complexos, mas eles sempre encontram uma solução com profissionalismo e eficiência. Seja de dia ou de noite, podemos contar com a ajuda deles, o que nos dá uma enorme tranquilidade.”",
+              "name": "2",
+              "position": "2"
+            }
+          },
+          {
+            "content": {
+              "description": "“Trabalhar com a econverse é ter a certeza de contar com uma equipe que alia atuação exemplar ao compromisso com o cliente. Desde a criação e gestão do nosso site até o atendimento próximo, a equipe demonstra um profundo entendimento do nosso negócio, garantindo sempre qualidade e eficiência em todas as etapas. Essa parceria é, sem dúvida, um diferencial que impulsiona nosso crescimento.”",
+              "name": "1",
+              "position": "4"
+            }
+          }
+        ],
+        "description": "Gestor Comercial Grupo Abrange",
+        "testimonialsLine1": [
+          {
+            "content": {
+              "description": "“A Econverse está sempre de portas e coração abertos para nossas demandas. Percebo claramente que o resultado que desejam entregar se sobrepões as clausulas contratuais e não medem esforços para que isso ocorra. Um parceiro que tem minha admiração profissional e pessoal.”",
+              "name": "Micael Bogo",
+              "position": "Gestor Comercial Grupo Abrange",
+              "avatar": "https://assets.decocache.com/econverse-page/788c6539-0cd5-49e1-8fd9-e4e63b23a717/10760.png"
+            }
+          },
+          {
+            "content": {
+              "description": "“Trabalhar com a econverse é ter a certeza de contar com uma equipe que alia atuação exemplar ao compromisso com o cliente. Desde a criação e gestão do nosso site até o atendimento próximo, a equipe demonstra um profundo entendimento do nosso negócio, garantindo sempre qualidade e eficiência em todas as etapas. Essa parceria é, sem dúvida, um diferencial que impulsiona nosso crescimento.”",
+              "position": "Coordenador de mKT grupo sinal",
+              "name": "Thiago Vitezi ",
+              "avatar": "https://assets.decocache.com/econverse-page/a91dde03-f4f1-4b20-81e2-8a6ad9349b34/16608.png"
+            }
+          },
+          {
+            "content": {
+              "position": "Gestor Comercial Grupo Abrange",
+              "description": "“A Econverse está sempre de portas e coração abertos para nossas demandas. Percebo claramente que o resultado que desejam entregar se sobrepões as clausulas contratuais e não medem esforços para que isso ocorra. Um parceiro que tem minha admiração profissional e pessoal.”",
+              "name": "Micael Bogo",
+              "avatar": "https://assets.decocache.com/econverse-page/4a7f6bf4-b61c-423c-ba6d-ab457100ff12/16609.png"
+            }
+          }
+        ],
+        "testimonialsLine2": [
+          {
+            "content": {
+              "name": "Mariane Oliveira",
+              "position": "E-commerce Condor SA",
+              "description": "\"Trabalhamos com a Econverse há mais de um ano e tem sido um período bastante produtivo.  O principal destaque vai para a equipe, que é sempre atenciosa e disposta a ajudar. A rotina diária é tranquila, com um atendimento rápido e de qualidade. A agência é comprometida com nossos objetivos, encontrando boas soluções e se tornando grandes parceiros.”",
+              "avatar": "https://assets.decocache.com/econverse-page/a91dde03-f4f1-4b20-81e2-8a6ad9349b34/16608.png"
+            }
+          },
+          {
+            "content": {
+              "description": "\"A Econverse é muito mais do que nossa parceira na operação da VTEX; é uma aliada estratégica no crescimento do nosso e-commerce, conquistando seu espaço com expertise e dedicação. Nossa parceria é marcada por três características essenciais que fazem a diferença no dia a dia e nos resultados: proatividade, capacidade de solução de problemas e agilidade.  É valioso contar com um parceiro que não apenas executa, mas se antecipa às necessidades do negócio, puxando conversas sobre próximos passos e evolução. Da mesma forma, é reconfortante saber que temos um suporte confiável, seja para assistência técnica ou para colocar a mão na massa e resolver desafios.”",
+              "name": "Fernanda Perillo",
+              "position": "Gerente de Marketing",
+              "avatar": "https://assets.decocache.com/econverse-page/a91dde03-f4f1-4b20-81e2-8a6ad9349b34/16608.png"
+            }
+          }
+        ],
+        "testimonialsLine3": [
+          {
+            "content": {
+              "name": "Cindy Soares",
+              "position": "Gerente Paola da vinci",
+              "description": "“O pessoal da Econverse é simplesmente incrível! Sempre muito atenciosos, executam o trabalho com dedicação e talento, garantindo que tudo funcione da melhor forma possível.  Às vezes surgem desafios complexos, mas eles sempre encontram uma solução com profissionalismo e eficiência. Seja de dia ou de noite, podemos contar com a ajuda deles, o que nos dá uma enorme tranquilidade.”",
+              "avatar": "https://assets.decocache.com/econverse-page/a91dde03-f4f1-4b20-81e2-8a6ad9349b34/16608.png"
+            }
+          },
+          {
+            "content": {
+              "description": "\"Desde o início da nossa parceria com a Econverse, percebi que não era apenas mais uma agência prestando serviço. Eles realmente se envolvem de verdade no nosso negócio, entendem nossas dores e trazem soluções personalizadas que fazem diferença no dia a dia. O que mais me encanta na equipe da Econverse é o compromisso com o nosso sucesso. Eles são extremamente profissionais, ágeis e criativos, sempre buscando maneiras inovadoras de otimizar nossa operação e aprimorar a experiência dos nossos clientes. Mais do que executar tarefas técnicas, eles pensam junto com a gente, antecipam desafios e propõem melhorias estratégicas que vão além do esperado..”",
+              "name": "Luani Figueira",
+              "position": "Gerente de E-commerce  TodoVino",
+              "avatar": "https://assets.decocache.com/econverse-page/a91dde03-f4f1-4b20-81e2-8a6ad9349b34/16608.png"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ContainerVideo.tsx",
+        "video": "https://assets.decocache.com/econverse-page/90101b16-6c4e-4fcb-9d7e-e4fb5ba1ff80/Video-escritorio(1).mp4",
+        "textImage": "https://assets.decocache.com/econverse-page/294c70d1-1bb1-47a8-9b1a-4facaabf59ed/slider-d.png"
+      }
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "type": "website"
+  }
+}

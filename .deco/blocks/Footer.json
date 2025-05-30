@@ -1,0 +1,142 @@
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {
+          "label": "Implantação VTEX IO",
+          "href": "/"
+        },
+        {
+          "label": "Implantação Shopify",
+          "href": "/"
+        },
+        {
+          "label": "Suporte & Evolução",
+          "href": "/"
+        },
+        {
+          "label": "Marketplace In & Out",
+          "href": "/"
+        },
+        {
+          "label": "Aplicativos iOS/Android",
+          "href": "/app-commerce"
+        },
+        {
+          "label": "Growth Marketing",
+          "href": "/"
+        }
+      ],
+      "title": "Serviços"
+    },
+    {
+      "items": [
+        {
+          "label": "Fornecedor VTEX",
+          "href": "/"
+        },
+        {
+          "label": "Ecommerce Brasil",
+          "href": "/"
+        },
+        {
+          "label": "Trabalhe Conosco",
+          "href": "/"
+        },
+        {
+          "label": "Funcionalidades",
+          "href": "/"
+        },
+        {
+          "label": "Glassdoor",
+          "href": "/"
+        },
+        {
+          "label": "Eventos",
+          "href": "/"
+        }
+      ],
+      "title": "Ecossistema"
+    },
+    {
+      "items": [
+        {
+          "label": "Sobre nós",
+          "href": "/"
+        },
+        {
+          "label": "Carreiras",
+          "href": "/"
+        },
+        {
+          "label": "Parcerias",
+          "href": "/"
+        },
+        {
+          "label": "Econverse na mídia",
+          "href": "/"
+        },
+        {
+          "label": "Blog Econverse",
+          "href": "/"
+        },
+        {
+          "label": "Cases",
+          "href": "/"
+        }
+      ],
+      "title": "Econverse"
+    },
+    {
+      "items": [
+        {
+          "label": "VTEX",
+          "href": "/"
+        },
+        {
+          "label": "Shopify",
+          "href": "/"
+        },
+        {
+          "label": "Wake ",
+          "href": "/"
+        },
+        {
+          "label": "Deco",
+          "href": "/"
+        },
+        {
+          "label": "Sobre nós",
+          "href": "/"
+        }
+      ],
+      "title": "Plataformas"
+    }
+  ],
+  "bottomLinks": [],
+  "social": [],
+  "subscribe": {},
+  "socialLinks": [
+    {
+      "label": "Facebook",
+      "href": "/",
+      "icon": "https://assets.decocache.com/econverse-page/774899be-e9a5-4403-be3c-74eb96388bf8/facebook-f.png"
+    },
+    {
+      "label": "Instagram",
+      "href": "/",
+      "icon": "https://assets.decocache.com/econverse-page/739f6449-66aa-4d84-a727-6ef899746ae7/instagram.png"
+    },
+    {
+      "label": "Linkedin",
+      "href": "/",
+      "icon": "https://assets.decocache.com/econverse-page/dd68eada-9436-437c-b4c2-09330a14fd53/Linkedin.png"
+    },
+    {
+      "label": "X",
+      "href": "/",
+      "icon": "https://assets.decocache.com/econverse-page/08fe7d0d-a02a-4b17-933b-f71feb31e3fc/Vector.png"
+    }
+  ]
+}
